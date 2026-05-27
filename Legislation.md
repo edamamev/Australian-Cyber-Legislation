@@ -32,10 +32,11 @@
 - Queensland Information Privacy Act 2009
 #### Queensland Public Sector Legislation
 ### Victorian Legislation
-- Victorian Protective Data Security Standards
 #### Victorian Public Sector Legislation
+- Privacy and Data Protection Act 2014
 ### NSW Legislation
 #### NSW Public Sector Legislation
+- Privacy and Personal Information Protection Act 1998
 ## Commonwealth Legislation
 - Telecommunications (Interception & Access) Act 1979
 ## International Law
