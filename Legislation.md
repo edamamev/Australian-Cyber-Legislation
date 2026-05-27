@@ -59,7 +59,9 @@
 ## Australian Frameworks
 - Australian Energy Sector Cyber Security Framework (AESCSF)
 - Protective Service Manual
-
+## State Frameworks
+### Victorian
+- Victorian Protective Data Security Standards
 # Standards
 ## Australian Standards
 - Essential 8
@@ -67,3 +69,4 @@
 ## International Standards
 - ISO/IEC 27001
 - NIST SP 800-53
+
