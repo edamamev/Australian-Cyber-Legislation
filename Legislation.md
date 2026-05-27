@@ -9,7 +9,6 @@
 - Surveillance Legislation Amendment (Identify and Disrupt) Act 2021
 - Australian Securities and Investments Commission Act 2001
 - Corporations Act 2001 (Cth) on their IT management systems ASIC Regulatory Guide 104
-- Australian Criminal Code Act 1995
 - Criminal Code Act 1995
   - 134.1 Obtaining property by deception
   - 372.1 Dealing in identification information
