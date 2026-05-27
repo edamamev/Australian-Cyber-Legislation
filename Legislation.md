@@ -29,8 +29,8 @@
   - 478.4 Producing, supplying, or obtaining data with intent to commit a computer offense
 ## Australian State-Based Legislation
 ### Queensland Legislation
-- Queensland Information Privacy Act 2009
 #### Queensland Public Sector Legislation
+- Queensland Information Privacy Act 2009
 ### Victorian Legislation
 #### Victorian Public Sector Legislation
 - Privacy and Data Protection Act 2014
